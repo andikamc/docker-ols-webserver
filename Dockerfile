@@ -1,4 +1,4 @@
-FROM sadaindonesia/ubuntu-baseline:focal
+FROM andikamc/ubuntu-baseline:focal
 
 # Update package list
 RUN apt -y update && \
